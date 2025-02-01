@@ -1,9 +1,9 @@
 
 //Crear contenedores
-const titulo = document.createElement('h1');
-titulo.className ="titulo";
-titulo.textContent = "Acceso con autorización:";
-document.body.append(titulo);
+// const titulo = document.createElement('h1');
+// titulo.className ="titulo";
+// titulo.textContent = "Acceso con autorización:";
+// document.body.append(titulo);
 
 const contenedor = document.createElement('div');
 contenedor.className = "contenedor";
